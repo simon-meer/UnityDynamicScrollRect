@@ -6,6 +6,7 @@
   "unity": "2019.2",
   "license": "",
   "dependencies": {
+    "com.demigiant.dotween": "1.2.632"
   },
   "keywords": [
     "Scroll"

@@ -1,6 +1,9 @@
 {
     "name": "com.mukarillo.dynamicscrollrect",
-    "references": [],
+    "rootNamespace": "",
+    "references": [
+        "GUID:b85a9b696dea92b4f9d0efe8b3f0e5b7"
+    ],
     "includePlatforms": [
         "Android",
         "Editor",
@@ -12,5 +15,6 @@
     "precompiledReferences": [],
     "autoReferenced": true,
     "defineConstraints": [],
-    "versionDefines": []
+    "versionDefines": [],
+    "noEngineReferences": false
 }
